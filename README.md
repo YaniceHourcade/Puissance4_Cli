@@ -2,7 +2,7 @@
 
 ## Objectif
 
-    Créer un Puissance4 en Golang.
+    Créer un Puissance4 en Java.
 
 ## Installation
 
